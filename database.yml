@@ -1,8 +1,8 @@
 development:
   dialect: postgres
   database: mile_high_development
-  user: postgres
-  password: postgres
+  user: brianwynn
+  password: DEV_DATABASE_PASSWORD
   host: 127.0.0.1
   pool: 5
 
